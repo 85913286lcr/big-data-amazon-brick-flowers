@@ -1,4 +1,6 @@
-# Project 2: What should my store sell?
+# Big Data Project: What should my store sell?
+
+> Individual assignment for the **Big Data Engineering** module of the **Advanced Professional Certificate in Data Science and AI**, Nanyang Technological University (NTU), SkillsFuture Career Transition Programme (SCTP).
 
 I am setting up an online store. Before choosing products I wanted evidence, so this project builds a data pipeline
 on Amazon toy reviews. It gives my business a data-driven foundation, and it is one pipeline used twice:
