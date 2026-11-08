@@ -1,8 +1,8 @@
 # What should my store sell?
 
 **Big Data Project: written report**  
-Individual assignment, Big Data Engineering module, Advanced Professional Certificate in Data Science and AI, NTU (SCTP)
-Congrui LIU (Rachelle), Group 6 · 13 October 2026
+Individual assignment, Big Data Engineering module, Advanced Professional Certificate in Data Science and AI, NTU (SCTP)  
+Congrui LIU (Rachelle) · 13 October 2026
 
 Code and documentation: this repository. Live app: https://flower-toy-evidence-839927014785.us-central1.run.app
 
